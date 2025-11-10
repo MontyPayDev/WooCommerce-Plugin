@@ -10,13 +10,13 @@ This plugin integrates MontyPay as a hosted payment gateway into your WooCommerc
 3. Upload the `.zip` file and click **Install Now**.
 4. Once installed, click **Activate Plugin**.
 
-## Configuration (Hosted Payment)
+## Configuration
 
-After activation, follow these steps to configure the MontyPay - Hosted Payment method:
+After activation, follow these steps to configure the MontyPay method:
 
 1. Navigate to:  
    **WooCommerce** → **Settings** → **Payments**
-2. Locate **MontyPay - Hosted Payment** and click **Manage**.
+2. Locate **MontyPay - (Hosted/S2S/Apple) Payment** and click **Manage**.
 3. Enter the required credentials:
    - **Merchant Key**: (provided by MontyPay)
    - **Merchant Password**: (provided by MontyPay)
